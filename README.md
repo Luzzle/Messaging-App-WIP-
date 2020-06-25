@@ -1,2 +1,2 @@
 # we2p
-JS based program to kill some time
+JS based messaging platform to kill some time
